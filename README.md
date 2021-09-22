@@ -9,3 +9,4 @@
 # git switch main
 # git checkout -b hotfix
 # git merge hotfix
+# git branch -d hotfix
