@@ -8,3 +8,4 @@
 # git checkout iss53
 # git switch main
 # git checkout -b hotfix
+# git merge hotfix
